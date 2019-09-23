@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91661bfe-d419-4621-b33b-a7146d718ac5" name="Default Changelist" comment="" />
+    <list default="true" id="9d307035-6ccd-4952-9888-66fdd162febc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1RAmX6szWlbo5mvTvrrCmHm8bob" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RBTeOm6LTA8orxkLD2AnaTd8xB" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/js/12移动web视频（6天）/移动web资料/day04/04-代码" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -21,7 +29,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JS\移动端视频\three" />
+      <recent name="D:\JS\移动端视频\four\weijinsuo\js" />
+      <recent name="D:\JS\移动端视频\four\weijinsuo\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -41,13 +50,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="91661bfe-d419-4621-b33b-a7146d718ac5" name="Default Changelist" comment="" />
-      <created>1569118310730</created>
+      <changelist id="9d307035-6ccd-4952-9888-66fdd162febc" name="Default Changelist" comment="" />
+      <created>1569139583153</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569118310730</updated>
-      <workItem from="1569118312292" duration="5672000" />
-      <workItem from="1569136584349" duration="926000" />
+      <updated>1569139583153</updated>
+      <workItem from="1569139584410" duration="4886000" />
+      <workItem from="1569216455535" duration="12456000" />
     </task>
     <servers />
   </component>
